@@ -9,16 +9,16 @@ Since I was learning as I went, the development process was all about problem-so
 * The biggest challenge was not writing the code itself, but making all those different parts work together without breaking the game.
 
 **Game Features**:
-* Core Gameplay: walking, jumping, double jumping, moving platforms, a score and health system, a moving camera and a simple combat system,
-* Enemy AI: basic enemies (thieves and archers) that patrol and react to the player. The thieves use their swords to attack and the archers shoot arrows towards the player,
-* UI & Menus: a working main menu, HUD for health/score and a Game Over screen,
-* Level Design: A complete 2D level made with free assets.
+* **Core Gameplay**: walking, jumping, double jumping, moving platforms, a score and health system, a moving camera and a simple combat system,
+* **Enemy AI**: basic enemies (thieves and archers) that patrol and react to the player. The thieves use their swords to attack and the archers shoot arrows towards the player,
+* **UI & Menus**: a working main menu, HUD for health/score and a Game Over screen,
+* **Level Design**: A complete 2D level made with free assets.
 
 **Controls**
-* Movement: "A" & "D" for left-right player movement
-* Jump and Double Jump: "Space"
-* Weapon: "Left-Click"
-* Exit to main menu: "Esc"
+* **Movement**: "A" & "D" for left-right player movement
+* **Jump and Double Jump**: "Space"
+* **Weapon**: "Left-Click"
+* **Exit to main menu**: "Esc"
 
 ## Why this is in my portfolio?
 This project demonstrates my ability to:
