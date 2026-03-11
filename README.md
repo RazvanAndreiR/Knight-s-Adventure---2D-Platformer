@@ -19,9 +19,15 @@ Since I was learning as I went, the development process was all about problem-so
 * **Jump and Double Jump**: "Space"
 * **Weapon**: "Left-Click"
 * **Exit to main menu**: "Esc"
-
+---
 ## Why this is in my portfolio?
 This project demonstrates my ability to:
 * **Learn on the fly:** Taking a complex engine like Unity and delivering a finished build,
 * **Problem Solving:** Navigating third-party code and making it work in a custom environment,
 * **Commitment:** Following a project from the initial concept to a final form.
+---
+## **Game presentation**
+<img width="2559" height="1439" alt="image" src="https://github.com/user-attachments/assets/a94dd4f0-0f6f-4fe2-a286-b051cfe0b77b" />
+<img width="2559" height="1439" alt="image" src="https://github.com/user-attachments/assets/02f27c14-3a78-4bd1-b789-ee9b1bff3fee" />
+<img width="2559" height="1439" alt="image" src="https://github.com/user-attachments/assets/3719b69e-47ea-4010-b4d2-669e76ed3c2d" />
+
